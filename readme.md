@@ -1,4 +1,5 @@
 # Web Mart
+A Kotlin app to display the working of Alert Dialog
 
 ## Working of the app
 Currently the app displays a text in the main activity and shows a pop up when back button is pressed.
@@ -31,5 +32,5 @@ override fun onBackPressed() {
 ```
 
 ## Screen Shot of the app
-![Main Screen](https://github.com/HimeshNayak/Web-Mart/blob/master/app/ss1.png)
-![Main Screen](https://github.com/HimeshNayak/Web-Mart/blob/master/app/ss2.png)
+![Main Screen](https://github.com/HimeshNayak/Web-Mart/blob/master/assets/ss1.png)
+![Alert Dialog](https://github.com/HimeshNayak/Web-Mart/blob/master/assets/ss2.png)
