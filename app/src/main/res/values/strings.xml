@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Web Mart</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="instruction">When Back Button is pressed the app will show an alert dialog box</string>
+    <string name="exitText">Hope you enjoyed the app</string>
+    <string name="stayText">Please enjoy the app</string>
+</resources>
