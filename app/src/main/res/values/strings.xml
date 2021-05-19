@@ -5,4 +5,5 @@
     <string name="instruction">When Back Button is pressed the app will show an alert dialog box</string>
     <string name="exitText">Hope you enjoyed the app</string>
     <string name="stayText">Please enjoy the app</string>
+    <string name="developer">HimeshNayak</string>
 </resources>
